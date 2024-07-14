@@ -3,7 +3,7 @@ import sys
 from newsletter_gen.crew import NewsletterGenCrew
 
 def load_html_template():
-    with open(r'D:\Langchain Projects\newsletter_gen\src\newsletter_gen\config\newsletter_template.html', 'r') as file:
+    with open(r'Newsletter-Generator-App/src/newsletter_gen/config/newsletter_template.html', 'r') as file:
         html_template = file.read()
     return html_template
 
