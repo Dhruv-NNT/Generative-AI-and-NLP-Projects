@@ -3,4 +3,7 @@ streamlit
 python-dotenv
 crewai
 exa_py
+embedchain
+chromadb
+
 
