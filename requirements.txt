@@ -1,4 +1,6 @@
 datetime
-dotenv
+streamlit
+python-dotenv
 crewai
 exa_py
+
