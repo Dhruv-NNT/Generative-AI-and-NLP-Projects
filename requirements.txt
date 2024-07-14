@@ -4,5 +4,5 @@ python-dotenv
 crewai
 exa_py
 poetry
-
-
+embedchain
+chromadb
