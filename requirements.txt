@@ -1,6 +1,5 @@
 datetime
 streamlit
-python-dotenv
 crewai
 exa_py
 poetry
