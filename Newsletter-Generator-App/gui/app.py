@@ -1,12 +1,15 @@
 import streamlit as st
 import sys
 import os
-from newsletter_gen.crew import NewsletterGenCrew
 
 # Add the src directory to the Python path
 src_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../src'))
 if src_path not in sys.path:
     sys.path.append(src_path)
+
+from newsletter_gen.crew import NewsletterGenCrew
+
+
 
 class NewsletterGenUI:
     def load_html_template(self):
