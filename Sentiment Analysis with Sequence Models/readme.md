@@ -101,4 +101,4 @@ Refer to the `Assignment Report - Aradhya Dhruv.pdf` for detailed results, inclu
 For any questions or feedback, feel free to reach out to:
 
 - **Name**: Aradhya Dhruv
-- **Email**: aradhya.dhruv@example.com
+- **Email**: aradhya.dhruv@gmail.com
