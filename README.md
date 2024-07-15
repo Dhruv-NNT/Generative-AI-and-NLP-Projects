@@ -4,11 +4,11 @@ Welcome to the **Advanced NLP Projects** repository. This repository contains a 
 
 ## Table of Contents
 
-1. [🗂️ Chat with PDFs - Using LangChain and RAG](#https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Chat%20with%20PDFs%20-%20Using%20LangChain%20and%20RAG)
-2. [📰 Newsletter Generator App Using CrewAI](#https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Newsletter-Generator-App)
-3. [📈 Stock Market Assistant Using PEFT and QLoRA](#https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Stock%20Market%20Assistant)
-4. [🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)](#https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Sentiment%20Analysis%20with%20Sequence%20Models)
-5. [🔄 Seq-to-Seq Models for Machine Translation](#https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Seq-to-Seq%20Models%20for%20Machine%20Translation)
+1. [🗂️ Chat with PDFs - Using LangChain and RAG](#-chat-with-pdfs---using-langchain-and-rag)
+2. [📰 Newsletter Generator App Using CrewAI](##-newsletter-generator-app)
+3. [📈 Stock Market Assistant Using PEFT and QLoRA](#-stock-market-assistant)
+4. [🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)](#-sentiment-analysis-with-sequence-models)
+5. [🔄 Seq-to-Seq Models for Machine Translation](#-seq-to-seq-models-for-machine-translation)
 
 ## 🗂️ Chat with PDFs - Using LangChain and RAG
 
