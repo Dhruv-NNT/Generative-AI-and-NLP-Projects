@@ -6,9 +6,9 @@ Welcome to the **Advanced NLP Projects** repository. This repository contains a 
 
 1. [🗂️ Chat with PDFs - Using LangChain and RAG](#-chat-with-pdfs---using-langchain-and-rag)
 2. [📰 Newsletter Generator App Using CrewAI](#-newsletter-generator-app)
-3. [🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)](#-sentiment-analysis-with-sequence-models)
-4. [🔄 Seq-to-Seq Models for Machine Translation](#-seq-to-seq-models-for-machine-translation)
-5. [📈 Stock Market Assistant Using PEFT and QLoRA](#-stock-market-assistant)
+3. [📈 Stock Market Assistant Using PEFT and QLoRA](#-stock-market-assistant)
+4. [🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)](#-sentiment-analysis-with-sequence-models)
+5. [🔄 Seq-to-Seq Models for Machine Translation](#-seq-to-seq-models-for-machine-translation)
 
 ## 🗂️ Chat with PDFs - Using LangChain and RAG
 
@@ -56,6 +56,30 @@ This project automates the generation of newsletters using a team of autonomous 
 ### Setup
 
 To set up and run the application, follow the instructions in the project's [README](Newsletter-Generator-App/README.md).
+
+## 📈 Stock Market Assistant
+
+### Overview
+
+This project leverages advanced NLP techniques to analyze stock market trends by decoding unstructured data from news articles and social media. The tool provides sentiment analysis and text summarization to offer accessible market insights.
+
+### Key Features
+
+- Sentiment analysis and text summarization of financial news.
+- Integration with various NLP models to extract actionable insights.
+- User-friendly interface for analyzing stock market trends.
+
+### Technologies Used
+
+- Python
+- Mistral
+- Gemma
+- BERT
+- FAISS
+
+### Setup
+
+To set up and run the application, follow the instructions in the project's [README](Stock-Market-Assistant/README.md).
 
 ## 🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)
 
@@ -109,30 +133,6 @@ This project investigates sequence-to-sequence (Seq2Seq) models for machine tran
 ### Setup
 
 To set up and run the experiments, follow the instructions in the project's [README](Seq-to-Seq-Machine-Translation/README.md).
-
-## 📈 Stock Market Assistant
-
-### Overview
-
-This project leverages advanced NLP techniques to analyze stock market trends by decoding unstructured data from news articles and social media. The tool provides sentiment analysis and text summarization to offer accessible market insights.
-
-### Key Features
-
-- Sentiment analysis and text summarization of financial news.
-- Integration with various NLP models to extract actionable insights.
-- User-friendly interface for analyzing stock market trends.
-
-### Technologies Used
-
-- Python
-- Mistral
-- Gemma
-- BERT
-- FAISS
-
-### Setup
-
-To set up and run the application, follow the instructions in the project's [README](Stock-Market-Assistant/README.md).
 
 ---
 
