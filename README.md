@@ -35,7 +35,7 @@ This project allows users to interact with the contents of multiple PDFs through
 
 To set up and run the application, follow the instructions in the project's [README](Chat-with-PDFs/README.md).
 
-## 📰 Newsletter-Generator-App
+## 📰 Newsletter Generator App Using CrewAI
 
 ### Overview
 
@@ -57,7 +57,7 @@ This project automates the generation of newsletters using a team of autonomous 
 
 To set up and run the application, follow the instructions in the project's [README](Newsletter-Generator-App/README.md).
 
-## 🔍 Sentiment Analysis with Sequence Models
+## 🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)
 
 ### Overview
 
