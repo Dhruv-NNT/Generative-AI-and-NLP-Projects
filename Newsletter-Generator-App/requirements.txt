@@ -11,3 +11,4 @@ streamlit
 crewai
 exa_py
 pysqlite3-binary
+poetry
