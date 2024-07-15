@@ -55,7 +55,7 @@ This project automates the generation of newsletters using a team of autonomous 
 
 ### Setup
 
-To set up and run the application, follow the instructions in the project's [README](Newsletter-Generator-App/README.md).
+To set up and run the application, follow the instructions in the project's [README](https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Newsletter-Generator-App).
 
 ## 📈 Stock Market Assistant Using PEFT and QLoRA
 
@@ -79,7 +79,7 @@ This project leverages advanced NLP techniques to analyze stock market trends by
 
 ### Setup
 
-To set up and run the application, follow the instructions in the project's [README](Stock-Market-Assistant/README.md).
+To set up and run the application, follow the instructions in the project's [README](https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Stock%20Market%20Assistant).
 
 ## 🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)
 
@@ -106,7 +106,7 @@ This project explores various neural network architectures for performing sentim
 
 ### Setup
 
-To set up and run the experiments, follow the instructions in the project's [README](Sentiment-Analysis/README.md).
+To set up and run the experiments, follow the instructions in the project's [README](https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Sentiment%20Analysis%20with%20Sequence%20Models).
 
 ## 🔄 Seq-to-Seq Models for Machine Translation
 
@@ -132,7 +132,7 @@ This project investigates sequence-to-sequence (Seq2Seq) models for machine tran
 
 ### Setup
 
-To set up and run the experiments, follow the instructions in the project's [README](Seq-to-Seq-Machine-Translation/README.md).
+To set up and run the experiments, follow the instructions in the project's [README](https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Seq-to-Seq%20Models%20for%20Machine%20Translation).
 
 ---
 
