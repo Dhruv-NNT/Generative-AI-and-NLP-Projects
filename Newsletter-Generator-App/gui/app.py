@@ -7,6 +7,13 @@ src_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../src'))
 if src_path not in sys.path:
     sys.path.append(src_path)
 
+# Import pysqlite3 and replace sqlite3
+try:
+    import pysqlite3
+    sys.modules['sqlite3'] = pysqlite3
+except ImportError:
+    pass
+
 from newsletter_gen.crew import NewsletterGenCrew
 
 
