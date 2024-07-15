@@ -97,8 +97,6 @@ This project explores various neural network architectures for performing sentim
 
 - Python
 - PyTorch
-- TensorFlow
-- Keras
 - NumPy
 - Pandas
 - Matplotlib
@@ -124,8 +122,6 @@ This project investigates sequence-to-sequence (Seq2Seq) models for machine tran
 
 - Python
 - PyTorch
-- TensorFlow
-- Keras
 - NumPy
 - Pandas
 - Matplotlib
