@@ -1,7 +1,10 @@
-datetime
-streamlit
-crewai
-exa_py
-poetry
-embedchain
-chromadb
+streamlit 
+pypdf2 
+langchain 
+python-dotenv 
+faiss-cpu 
+openai 
+huggingface_hub
+langchain-community
+InstructorEmbedding 
+sentence-transformers==2.2.2
