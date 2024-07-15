@@ -107,7 +107,9 @@ sh Codes/run.sh
 ## 🎥 Demo
 
 Check out our demo video showc asing the key features and functionalities of the project.
-https://github.com/user-attachments/assets/f92f7cd8-bf26-44fc-a582-7214d1d2ba58
+
+https://github.com/user-attachments/assets/c586daaf-7449-4657-8a04-fbd112a36905
+
 
 
 ## 📊 Results
