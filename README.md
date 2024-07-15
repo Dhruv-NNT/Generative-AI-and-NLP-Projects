@@ -57,7 +57,7 @@ This project automates the generation of newsletters using a team of autonomous 
 
 To set up and run the application, follow the instructions in the project's [README](Newsletter-Generator-App/README.md).
 
-## 📈 Stock Market Assistant
+## 📈 Stock Market Assistant Using PEFT and QLoRA
 
 ### Overview
 
