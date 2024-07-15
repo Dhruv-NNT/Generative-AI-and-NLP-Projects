@@ -1,6 +1,6 @@
 # 📚 Generative AI and NLP Projects
 
-Welcome to the **Advanced NLP Projects** repository. This repository contains a collection of projects that explore various advanced techniques in Natural Language Processing (NLP). Each project leverages different models and methodologies to address specific NLP tasks, demonstrating the versatility and power of modern NLP frameworks.
+Welcome to the **Generative AI and NLP Projects** repository. This repository contains a collection of projects that explore various advanced techniques in Natural Language Processing (NLP). Each project leverages different models and methodologies to address specific NLP tasks, demonstrating the versatility and power of modern NLP frameworks.
 
 ## Table of Contents
 
@@ -138,7 +138,7 @@ To set up and run the experiments, follow the instructions in the project's [REA
 
 ## Conclusion
 
-The **Advanced NLP Projects** repository demonstrates the application of cutting-edge NLP techniques across various domains. Each project provides a unique perspective on solving complex NLP tasks, showcasing the potential and versatility of modern NLP frameworks.
+The **Generative AI and NLP Projects** repository demonstrates the application of cutting-edge NLP techniques across various domains. Each project provides a unique perspective on solving complex NLP tasks, showcasing the potential and versatility of modern NLP frameworks.
 
 For detailed information and setup instructions, please refer to the individual README files for each project. If you have any questions or feedback, feel free to reach out to the project contributors.
 
