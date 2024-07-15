@@ -1,6 +1,6 @@
-# 📈 Stock Market Assistance with Deep Learning and NLP
+# 🚀 Advanced Stock Market Analysis with Deep Learning and NLP
 
-Welcome to the Stock Market Assistance project! This project leverages advanced Natural Language Processing (NLP) techniques and large language models like Mistral and Gemma to revolutionize stock market analysis by decoding vast amounts of unstructured data from news articles and social media that influence market trends.
+Welcome to the Advanced Stock Market Analysis project! This project leverages state-of-the-art Natural Language Processing (NLP) techniques and cutting-edge deep learning models to revolutionize stock market analysis by extracting actionable insights from vast amounts of unstructured data from news articles and social media.
 
 ## 🎯 Project Overview
 
@@ -18,7 +18,9 @@ This project aims to democratize financial expertise by automating the extractio
 
 ## 🛠️ Technologies Used
 
-- **Language Models**: Mistral, Gemma
+- **Large Language Models (LLMs)**: Mistral, Gemma
+- **Parameter-Efficient Fine-Tuning (PEFT)**: Techniques to fine-tune LLMs with minimal computational resources.
+- **Quantized Low-Rank Adaptation (QLoRA)**: Efficient adaptation method for LLMs.
 - **Sentiment Analysis**: Advanced NLP techniques
 - **Text Summarization**: BERT (Bidirectional Encoder Representations) Summarizer
 - **Embedding Storage and Retrieval**: FAISS (Facebook AI Similarity Search)
@@ -104,7 +106,9 @@ sh Codes/run.sh
 
 ## 🎥 Demo
 
-Check out our [demo video](https://drive.google.com/file/d/1Z_QlkYCgj_p1GoWdslhdH_DxJGQIx3wD/view?usp=sharing) showcasing the key features and functionalities of the project.
+Check out our demo video showc asing the key features and functionalities of the project.
+https://github.com/user-attachments/assets/f92f7cd8-bf26-44fc-a582-7214d1d2ba58
+
 
 ## 📊 Results
 
@@ -130,4 +134,8 @@ For any queries or collaboration, feel free to reach out to us.
 
 ## 🎉 Acknowledgements
 
-Special thanks to all contributors and the open-source community for their invaluable support.
+Special thanks to all contributors and the open-source community for their invaluable support. 
+
+---
+
+Feel free to customize this template further based on the specific details of your project. If there are specific points from the walkthrough video you want to include, please share those details, and I will integrate them accordingly.
