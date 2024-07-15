@@ -1,6 +1,6 @@
 # Advanced Stock Market Analysis with Deep Learning and NLP
 
-Welcome to the Advanced Stock Market Analysis project! This project leverages state-of-the-art Natural Language Processing (NLP) techniques and cutting-edge deep learning models to revolutionize stock market analysis by extracting actionable insights from vast amounts of unstructured data from news articles and social media.
+Welcome to the Advanced Stock Market Analysis project! This project leverages state-of-the-art Natural Language Processing (NLP) techniques such as PEFT and QLoRa and cutting-edge large language models to revolutionize stock market analysis by extracting actionable insights from vast amounts of unstructured data from news articles and social media.
 
 ## 🎯 Project Overview
 
