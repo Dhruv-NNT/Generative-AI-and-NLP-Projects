@@ -4,4 +4,4 @@ crewai
 exa_py
 embedchain
 chromadb
-pysqlite3
+pysqlite3-binary
