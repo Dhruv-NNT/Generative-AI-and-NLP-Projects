@@ -1,6 +1,7 @@
 streamlit
-json
-datetime
-dotenv
+python-dotenv
 crewai
 exa_py
+embedchain
+chromadb
+pysqlite3
