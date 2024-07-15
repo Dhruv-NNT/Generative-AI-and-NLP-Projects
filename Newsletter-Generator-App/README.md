@@ -1,4 +1,4 @@
-# 📬 Crew Automation Newsletter Generation with GUI
+# 📬 CrewAI Newsletter Generation with GUI
 
 Welcome to the Crew Automation Newsletter Generation project! This project leverages CrewAI to build a team of autonomous agents that generate newsletters. The graphical user interface (GUI) allows users to input a topic and personal message, and then displays the thought process of each agent as they work on the newsletter. Once the automation is complete, users can download the HTML newsletter.
 
