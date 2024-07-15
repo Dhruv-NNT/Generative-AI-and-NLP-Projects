@@ -5,8 +5,8 @@ Welcome to the **Advanced NLP Projects** repository. This repository contains a 
 ## Table of Contents
 
 1. [🗂️ Chat with PDFs - Using LangChain and RAG](#-chat-with-pdfs---using-langchain-and-rag)
-2. [📰 Newsletter-Generator-App](#-newsletter-generator-app)
-3. [🔍 Sentiment Analysis with Sequence Models](#-sentiment-analysis-with-sequence-models)
+2. [📰 Newsletter Generator App Using CrewAI](#-newsletter-generator-app)
+3. [🔍 Sentiment Analysis with Sequence Models (LSTM, BiSTM and CNN)](#-sentiment-analysis-with-sequence-models)
 4. [🔄 Seq-to-Seq Models for Machine Translation](#-seq-to-seq-models-for-machine-translation)
 5. [📈 Stock Market Assistant](#-stock-market-assistant)
 
