@@ -8,8 +8,6 @@ langchain-community
 InstructorEmbedding 
 sentence-transformers==2.2.2
 streamlit
-json
-datetime
-dotenv
 crewai
 exa_py
+pysqlite3-binary
