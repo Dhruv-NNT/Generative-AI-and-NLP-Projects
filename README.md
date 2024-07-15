@@ -33,7 +33,7 @@ This project allows users to interact with the contents of multiple PDFs through
 
 ### Setup
 
-To set up and run the application, follow the instructions in the project's [README](Chat-with-PDFs/README.md).
+To set up and run the application, follow the instructions in the project's [README](https://github.com/Dhruv-NNT/Generative-AI-and-NLP-Projects/tree/main/Chat%20with%20PDFs%20-%20Using%20LangChain%20and%20RAG).
 
 ## 📰 Newsletter Generator App Using CrewAI
 
